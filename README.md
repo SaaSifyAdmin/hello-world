@@ -23,6 +23,7 @@ this is **really** important and I want this to *stand out* too
 - [ ] ~~This is item 3~~
 - [X] This is item 4
 - [ ] This is item 5  
+
 This is how you write a line of code for `console.log` in JavaScript
 
 Code Changes
